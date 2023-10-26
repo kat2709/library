@@ -1,4 +1,5 @@
 # Library App
+(min screen width - 640px)
 
 [Link to the app](https://kat2709.github.io/library/)
 
