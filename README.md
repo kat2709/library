@@ -1,1 +1,14 @@
 # Library App
+
+[Link to the app](https://kat2709.github.io/library/)
+
+[Link to the task](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/library/library-part3.md)
+
+### Built with
+
+- HTML
+- CSS
+- JavaScript
+
+## Screenshots
+
