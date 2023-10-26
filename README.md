@@ -12,3 +12,6 @@
 
 ## Screenshots
 
+![](./assets/screenshots/library-screen.PNG)
+![](./assets/screenshots/mobile-screen.PNG)
+
